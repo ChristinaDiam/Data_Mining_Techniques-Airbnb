@@ -18,3 +18,4 @@ This project consists of 2 parts. The first part is **"Data exploration"** and t
 
 [Christina Diamanti](https://github.com/ChristinaDiam)  
 [Ilias Marras](https://github.com/IliasMr)
+
